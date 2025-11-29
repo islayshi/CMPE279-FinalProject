@@ -5,3 +5,4 @@ Original Dataset: https://www.kaggle.com/datasets/joebeachcapital/windows-malwar
 ## Contributions 
 - Isla - cmpe-279-final-project-svm-xgboost-rf.ipynb
 - Joel - cmpe-279-final-project-logistic-regression.ipynb
+- Aaron - cmpe-279-binary-modeling.ipynb, cmpe279-continuous-modeling.ipynb, cmpe279-dataset-creation.ipynb
